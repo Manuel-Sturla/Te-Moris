@@ -50,3 +50,6 @@ Las cartas especiales deben mostrarse al resto de los jugadores al ser usadas.
 Esta regla _anula_ el “poder” del 3. Es decir que si se tira un 3 y son todas del mismo palo, no se cambia de lugar el 3 sino que solamente rotan todas las cartas.  
 
 - En caso de que todas las cartas sean del mismo palo y se juegue el “Te morís”, **no** se rota ya que el “Te morís” tiene prioridad.
+
+## Creadores
+Los creadores de este juego fueron: Manuel Sturla, Tomas Pascale, Facundo de Miguel y Federico Martinez.
